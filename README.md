@@ -1,0 +1,2 @@
+# jahnaviAssignment
+Digit Square Sum
